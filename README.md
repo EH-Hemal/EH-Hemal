@@ -1,5 +1,13 @@
 # 💫 About Me:
-AI Research Enthusiast focused on Computer Vision, Machine Learning, and Deep Learning, with a passion for building intelligent solutions to real-world problems.<br>
+B.Sc. Engineering student in Computer Science and Engineering.
+
+Enthusiastic researcher focused on AI-driven solutions.
+
+Research interests include Computer Vision, Machine Learning, and Deep Learning.
+
+Exploring AI applications in Precision Agriculture.
+
+Passionate about solving real-world problems through research and technology.
 
 
 ## 🌐 Socials:
